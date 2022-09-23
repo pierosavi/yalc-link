@@ -1,6 +1,6 @@
 {
   "name": "yalc-link",
-  "version": "1.0.0-pre.53+link.0",
+  "version": "1.0.0-pre.53.link.0",
   "description": "Work with npm/yarn packages locally like a boss.",
   "homepage": "https://github.com/pierosavi/yalc-link",
   "repository": {
