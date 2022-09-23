@@ -1,3 +1,11 @@
+Fork of `yalc`, kept updated with upstream, published as its own package under `yalc-link`, with some changes that I need.
+
+As it uses the same `yalc` command for compatibility you can't have both installed.
+
+# Changes from Yalc
+
+- Add store-folder to valid options in .yalcrc
+
 # Yalc
 
 > Better workflow than **npm | yarn link** for package authors.
@@ -22,13 +30,13 @@ When developing and authoring multiple packages (private or public), you often f
 Using NPM:
 
 ```
-npm i yalc -g
+npm i yalc-link -g
 ```
 
 Using Yarn:
 
 ```
-yarn global add yalc
+yarn global add yalc-link
 ```
 
 Some documented features might not have been published yet, see the [change log](./CHANGELOG.md).
